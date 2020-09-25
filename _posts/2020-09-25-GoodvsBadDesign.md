@@ -13,4 +13,3 @@ The chair above is a poorly designed one. Firstly, the material of the chair, wh
 ![good chair] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.afw.com%2Frespawn-reclining-gaming-chair-4&psig=AOvVaw1koexnFF87EtvtgEvR138a&ust=1601124599892000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjeq42shOwCFQAAAAAdAAAAABAD)
 
 This chair, on the other hand, is a very well-designed chair. For reasons contrary to why the first chair was poorly designed, this chair offers superb back support. The chair is reclinable, allowing the user to comfortably lean back. Additionally, this chair is made out of metal, allowing the user to be able to sit on this chair for longer periods of time. 
-
