@@ -1,5 +1,5 @@
 ---
-layout: Fly On The Wall Lab: What HM Can Do To Improve Its Campus
+layout: Post
 title: Fly On The Wall Observation Writeup
 subtitle: by Nicolas Wong
 ---
