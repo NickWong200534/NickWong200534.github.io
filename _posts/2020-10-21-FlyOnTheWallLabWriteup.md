@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Fly On The Wall Observation Writeup
 subtitle: by Nicolas Wong
 ---
