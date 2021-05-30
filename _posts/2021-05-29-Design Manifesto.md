@@ -7,7 +7,7 @@ subtitle: by Nicolas Wong
 Throughout the school year, my group and I actively searched for a problem in the Horace Mann community that we could fix with an app, in hopes of providing as much value as possible to users. Through this journey, we experienced the design process.  We started by carefully observing the campus for problems that needed to be fixed, and then transitioned to designing the app, performing usability tests on various users, and finally creating a digital version of the app using the software Balsamiq. Together, we called our app HM Comms, which aimed to facilitate communication in our school community. We thought that this was especially necessary during a pandemic, where the majority of communication is being done through First Class, our school email app. Our two primary tasks that we aimed to solve were helping students find club rooms and allowing students to send out polls. Through the creation of HM Comms, I learned an abundance of critical lessons when it comes to creating an effective app regarding the design process, my personal code of ethics, and the app’s accessibility to various users.  
 
 
-![Bad Chair](OpenMinded.jpg)
+![Bad Chair]((https://user-images.githubusercontent.com/71462451/120089193-e94a8f00-c0c5-11eb-8f52-a35106823101.png))
 
 
 The chair above is a poorly designed one. Firstly, the material of the chair, which is metal, makes it severely uncomfortable to sit in for extended periods of time. Additionally, there is no pivoting mechanism on the chair, disabling the user from being able to turn and twist at leisure. The back support of the chair is also fixed. This prevents the user from being able to lean back and relax. 
