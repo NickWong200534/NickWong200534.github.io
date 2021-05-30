@@ -40,7 +40,7 @@ subtitle: by Nicolas Wong
 
 ![Home Page 1](https://raw.githubusercontent.com/NickWong200534/NickWong200534.github.io/master/img/Screen%20Shot%202021-05-29%20at%2010.09.43%20PM.png)
 ![Home Page 2](https://raw.githubusercontent.com/NickWong200534/NickWong200534.github.io/master/img/Screen%20Shot%202021-05-29%20at%2010.09.54%20PM.png)
-###### _Here is a picture of our home page (split into two) of our digital prototype that we made on Balsamiq. As you can see, we tried to make everything as simple as possible: There are very clearly a list of clubs that the user can click on in the middle of the screen, options to send out a poll and view club rooms on the bottom left and right of the screen respectively. Overall, everything is pretty simple to navigate through.
+###### _Here is a picture of our home page (split into two) of our digital prototype that we made on Balsamiq. As you can see, we tried to make everything as simple as possible: There are very clearly a list of clubs that the user can click on in the middle of the screen, options to send out a poll and view club rooms on the bottom left and right of the screen respectively. Overall, everything is pretty simple to navigate through._
 
   These five core concepts are what guided my team and I to create a complete, cohesive, and (what I would deem) successful app. If you are in the process of designing or brainstorming an app, it is critical to stick by these concepts as it will allow you and your group to create a more effective and impactful app. 
 
