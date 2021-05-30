@@ -32,7 +32,7 @@ _Here is some of the constructive criticism we received during our usability tes
   Another crucial facet of making an app as effective as possible is constantly being cautious of the possible disabilities of others, and making sure our app is accessible to as many people as possible. After all, our main intention for creating this app was to positively impact as many users as possible. Part of reaching this goal is being mindful about people with possible disabilities, and making our app easy to use for them as well. Some of the things that we took into account were the size of our buttons (for people with possible vision impairments) and including directions (for people with possible mental disabilities). With the keeping the disabilities of others in mind at all times, it not only made it more accessible but it also prevented our group from over-complicating the app. 
 
 ![Big Button](https://raw.githubusercontent.com/NickWong200534/NickWong200534.github.io/master/img/Screen%20Shot%202021-05-29%20at%2010.15.13%20PM.png)
-_This is the screen that the user is presented with when they submit an answer to a poll on our app. Although this is a very subtly detail, we tried to make the buttons in our app as big as possible to accomodate for all users._
+_This is the screen that the user is presented with when they submit an answer to a poll on our app. Although this is a very subtle detail, we tried to make the buttons in our app as big as possible to accomodate for all users._
 
 ### **Make Your App As Simple As Possible**
 
