@@ -11,7 +11,7 @@ subtitle: by Nicolas Wong
   A crucial part of the design process is actually choosing what app you want to make. The best apps are those that provide as much value to their users as possible. This can include games, which provide entertainment, planners, which improve organization skills, etc. However, it is vital that the app greatly impacts others. In the creation of HM Comms, my group first started by walking our school campus, observing the environment and people, seeing what needed to be changed. We eventually identified the overload of emails our school community was getting - and communication in general - as a major problem. Therefore, we sought to aid this problem with our app. If we were to skip this process and invest our time in creating an app that was of little demand and use, no one would benefit from it. 
 
 ![Fly On The Wall Lab](https://raw.githubusercontent.com/NickWong200534/NickWong200534.github.io/master/img/Screen%20Shot%202021-05-29%20at%209.54.49%20PM.png)
-_At the very beginning of the design process, when I was looking for an idea for an app, I jotted down notes while walking around my school campus, looking for anything that needed improvement. This was called the "Fly On The Wall Lab."_
+###### _At the very beginning of the design process, when I was looking for an idea for an app, I jotted down notes while walking around my school campus, looking for anything that needed improvement. This was called the "Fly On The Wall Lab."_
 
 ### **Get Opinions From Others**
 
@@ -19,7 +19,7 @@ _At the very beginning of the design process, when I was looking for an idea for
 
 ![Advice Photo 1](https://raw.githubusercontent.com/NickWong200534/NickWong200534.github.io/master/img/Screen%20Shot%202021-05-29%20at%2010.00.05%20PM.png)
 ![Advice Photo 2](https://raw.githubusercontent.com/NickWong200534/NickWong200534.github.io/master/img/Screen%20Shot%202021-05-29%20at%2010.00.14%20PM.png)
-_Here is some of the constructive criticism we received during our usability tests_
+###### _Here is some of the constructive criticism we received during our usability tests_
 
 ### **Be Open-Minded**
 
@@ -32,7 +32,7 @@ _Here is some of the constructive criticism we received during our usability tes
   Another crucial facet of making an app as effective as possible is constantly being cautious of the possible disabilities of others, and making sure our app is accessible to as many people as possible. After all, our main intention for creating this app was to positively impact as many users as possible. Part of reaching this goal is being mindful about people with possible disabilities, and making our app easy to use for them as well. Some of the things that we took into account were the size of our buttons (for people with possible vision impairments) and including directions (for people with possible mental disabilities). With the keeping the disabilities of others in mind at all times, it not only made it more accessible but it also prevented our group from over-complicating the app. 
 
 ![Big Button](https://raw.githubusercontent.com/NickWong200534/NickWong200534.github.io/master/img/Screen%20Shot%202021-05-29%20at%2010.15.13%20PM.png)
-_This is the screen that the user is presented with when they submit an answer to a poll on our app. Although this is a very subtle detail, we tried to make the buttons in our app as big as possible to accomodate for all users._
+###### _This is the screen that the user is presented with when they submit an answer to a poll on our app. Although this is a very subtle detail, we tried to make the buttons in our app as big as possible to accomodate for all users._
 
 ### **Make Your App As Simple As Possible**
 
@@ -40,7 +40,7 @@ _This is the screen that the user is presented with when they submit an answer t
 
 ![Home Page 1](https://raw.githubusercontent.com/NickWong200534/NickWong200534.github.io/master/img/Screen%20Shot%202021-05-29%20at%2010.09.43%20PM.png)
 ![Home Page 2](https://raw.githubusercontent.com/NickWong200534/NickWong200534.github.io/master/img/Screen%20Shot%202021-05-29%20at%2010.09.54%20PM.png)
-_Here is a picture of our home page (split into two) of our digital prototype that we made on Balsamiq. As you can see, we tried to make everything as simple as possible: There are very clearly a list of clubs that the user can click on in the middle of the screen, options to send out a poll and view club rooms on the bottom left and right of the screen respectively. Overall, everything is pretty simple to navigate throguh_
+###### _Here is a picture of our home page (split into two) of our digital prototype that we made on Balsamiq. As you can see, we tried to make everything as simple as possible: There are very clearly a list of clubs that the user can click on in the middle of the screen, options to send out a poll and view club rooms on the bottom left and right of the screen respectively. Overall, everything is pretty simple to navigate throguh_
 
   These five core concepts are what guided my team and I to create a complete, cohesive, and (what I would deem) successful app. If you are in the process of designing or brainstorming an app, it is critical to stick by these concepts as it will allow you and your group to create a more effective and impactful app. 
 
